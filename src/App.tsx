@@ -7,6 +7,7 @@ function App() {
     return (
         <Router>
             <div className="app">
+                add some shit
                 <AppRouter/>
             </div>
         </Router>
